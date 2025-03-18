@@ -1,1 +1,1 @@
-# IBM-AppliedDateScienceCertificatrion-CaopsatonProject
+# IBM-AppliedDateScienceSpecialoization-CaopsatonProject
