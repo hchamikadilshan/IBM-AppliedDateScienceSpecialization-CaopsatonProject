@@ -1,1 +1,1 @@
-# IBM-AppliedDateScienceSpecialoization-CaopsatonProject
+# IBM-AppliedDateScienceSpecialization-CapstonProject
